@@ -7,7 +7,7 @@ const Footer = () => {
         © {new Date().getFullYear()}  Made with <span className="text-red-500">❤️</span> by <span className="text-2xl">Jawad Shaikh</span> |
         GTA VI Fan Project |{' '}
         <a
-          href="https://github.com/asynchronousJavascriptor/GTAVI"
+          href="https://github.com/jawad-js/GTAVI-clone"
           target="_blank"
           rel="noopener noreferrer"
           className="text-teal-400 hover:underline"
