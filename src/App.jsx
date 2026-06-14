@@ -232,14 +232,14 @@ function App() {
               {/* Main Landscape Image */}
               <div className="relative w-full md:w-2/3 shadow-xl">
                 <img
-                  src="public/jason_and_lucia.webp"
+                  src="jason_and_lucia.webp"
                   alt="GTA Main Visual"
                   className="rounded-lg w-full object-cover"
                 />
 
                 {/* Square 'Vice City' Postcard */}
                 <img
-                  src="public/Vice_City_Postcard.webp"
+                  src="Vice_City_Postcard.webp"
                   alt="Vice City"
                   className="absolute bottom-4 right-4 w-40 md:w-48 border-4 border-white shadow-lg rotate-3 rounded"
                 />
@@ -248,7 +248,7 @@ function App() {
               {/* Portrait Image (Right side for larger screens) */}
               <div className="w-full md:w-1/3">
                 <img
-                  src="public/Boobie.webp"
+                  src="Boobie.webp"
                   alt="GTA Character"
                   className="rounded-lg object-cover shadow-lg"
                 />
